@@ -1,1 +1,1 @@
-# SC1015-BankruptcyPrediction
+# SC1015 Mini Project: BankruptcyPrediction
