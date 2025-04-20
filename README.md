@@ -5,9 +5,10 @@
 **Apr 2025**
 
 **Contributors:**  
-- [@aurelia0310](https://github.com/aurelia0310) - Data Preparation, EDA, XGBoost
-- [@0w3n1](https://github.com/0w3n1) - EDA, Random Forest
-- [@zhilingggg](https://github.com/zhilingggg) - EDA, Logisic Regression
+- Axalya Raffa Aurelia Jazuli [@aurelia0310](https://github.com/aurelia0310) - Data Preparation, EDA, XGBoost
+- Owen Lim Qi Xun [@0w3n1](https://github.com/0w3n1) - EDA, Random Forest
+- Yap Zhi Ling
+ [@zhilingggg](https://github.com/zhilingggg) - EDA, Logisic Regression
 
 ---
 
