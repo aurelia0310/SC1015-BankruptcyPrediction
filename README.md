@@ -6,8 +6,8 @@
 
 **Contributors:**  
 - [@aurelia0310](https://github.com/aurelia0310) - Data Preparation, EDA, XGBoost
-- [@owenlimqx](https://github.com/owenlimqx) - EDA, Random Forest
-- [@zlingyap](https://github.com/zlingyap) - EDA, Logisic Regression
+- [@0w3n1](https://github.com/0w3n1) - EDA, Random Forest
+- [@zhilingggg](https://github.com/zhilingggg) - EDA, Logisic Regression
 
 ---
 
