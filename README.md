@@ -4,10 +4,10 @@
 **Team 1**  
 **Apr 2025**
 
-**Contributors:**  
-- @aurelia0310 - Data Preparation, EDA, XGBoost 
-- Owen Lim Qi Xun  
-- Yap Zhi Ling  
+**Members:**  
+- [@aurelia0310](https://github.com/aurelia0310) - Data Preparation, EDA, XGBoost
+- [@owenlimqx](https://github.com/owenlimqx) - EDA, Random Forest
+- [@zlingyap](https://github.com/zlingyap) - EDA, Logisic Regression
 
 ---
 
@@ -39,7 +39,8 @@ We are using the **Company Bankruptcy** dataset from **Kaggle**, which includes 
 
 ## 1. Problem Formulation
 
-**Our Dataset**  
+**Our Dataset:** [Company Bankruptcy Prediction (Kaggle)](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction?resource=download)
+
 **Our Question:** Which variable best predicts bankruptcy?
 
 **Rationale:**  
@@ -135,4 +136,9 @@ https://www.geeksforgeeks.org/random-forest-algorithm-in-machine-learning/
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 https://www.geeksforgeeks.org/xgboost/
 https://xgboost.readthedocs.io/en/release_3.0.0/
+https://medium.com/@bubbapora_76246/using-class-weight-to-compensate-for-imbalanced-data-6eff370185d3
+https://imbalanced-
+learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html
+https://imbalanced-learn.org/stable/references/generated/imblearn.combine.SMOTEENN.html
+https://www.sciencedirect.com/topics/medicine-and-dentistry/youden-index
 
