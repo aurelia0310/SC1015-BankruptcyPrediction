@@ -4,15 +4,26 @@
 **Team 1**  
 **Apr 2025**
 
-**Members:**  
-- Axalya Raffa Aurelia Jazuli  
+**Contributors:**  
+- @aurelia0310 - Data Preparation, EDA, XGBoost 
 - Owen Lim Qi Xun  
 - Yap Zhi Ling  
 
 ---
 
 This repository contains all the Jupyter Notebooks, datasets, video presentations, and the source materials/references used and created as part of the Mini Project for **SC1015: Introduction to Data Science and AI**.  
-This README briefly highlights what we have accomplished in this project.
+This README highlights what we have accomplished in this project.
+
+For a detailed walkthrough, please view the source code in the following order:
+
+1. [Data Preparation & EDA](data_preparation_eda.ipynb)  
+2. [Logistic Regression](logistic_regression.ipynb)  
+3. [Random Forest](random_forest.ipynb)  
+4. [XGBoost](xgboost.ipynb)
+
+
+We are using the **Company Bankruptcy** dataset from **Kaggle**, which includes data from the **Taiwan Economic Journal** between **1999 and 2009**. The dataset defines company bankruptcy based on **Taiwan Stock Exchange** business regulations.
+
 
 ---
 
@@ -117,4 +128,11 @@ Insights from our data-driven analysis deliver actionable bankruptcy risk manage
 
 ## References
 
-*List of references or source materials goes here (if available).*
+https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction?resource=download
+https://www.geeksforgeeks.org/understanding-logistic-regression/
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+https://www.geeksforgeeks.org/random-forest-algorithm-in-machine-learning/
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+https://www.geeksforgeeks.org/xgboost/
+https://xgboost.readthedocs.io/en/release_3.0.0/
+
