@@ -129,15 +129,15 @@ Insights from our data-driven analysis deliver actionable bankruptcy risk manage
 
 ## References
 
-https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction?resource=download
-https://www.geeksforgeeks.org/understanding-logistic-regression/
-https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
-https://www.geeksforgeeks.org/random-forest-algorithm-in-machine-learning/
-https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
-https://www.geeksforgeeks.org/xgboost/
-https://xgboost.readthedocs.io/en/release_3.0.0/
-https://medium.com/@bubbapora_76246/using-class-weight-to-compensate-for-imbalanced-data-6eff370185d3
-https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html
-https://imbalanced-learn.org/stable/references/generated/imblearn.combine.SMOTEENN.html
-https://www.sciencedirect.com/topics/medicine-and-dentistry/youden-index
+- https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction?resource=download
+- https://www.geeksforgeeks.org/understanding-logistic-regression/
+- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+- https://www.geeksforgeeks.org/random-forest-algorithm-in-machine-learning/
+- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+- https://www.geeksforgeeks.org/xgboost/
+- https://xgboost.readthedocs.io/en/release_3.0.0/
+- https://medium.com/@bubbapora_76246/using-class-weight-to-compensate-for-imbalanced-data-6eff370185d3
+- https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html
+- https://imbalanced-learn.org/stable/references/generated/imblearn.combine.SMOTEENN.html
+- https://www.sciencedirect.com/topics/medicine-and-dentistry/youden-index
 
